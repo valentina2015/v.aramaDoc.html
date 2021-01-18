@@ -27,7 +27,7 @@
 
 <h1>Compositions</h1>   
 
-<h2>Some of the most famous Mokranjac's compositions are:</h2> 
+<h1>Some of the most famous Mokranjac's compositions are:</h1> 
 
 <b>Statija treća</b>  
 
