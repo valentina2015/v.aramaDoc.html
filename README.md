@@ -1,4 +1,10 @@
 # v.aramaDoc.html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Title of the document</title>
+</head>
+<body>
 <h1>Stojanović Mokranjac</h1> 
 
 <b>Stojanović Mokranjac (January 9, 1856–1914) was a Serbian composer and music educator. His work was essential in bringing the spirit of Valach Serbian unwritten folk poems into organized art.</b>  
